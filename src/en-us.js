@@ -1,7 +1,7 @@
 (function() {
   var getcm = window.getcm || { locales:{} };
 
-  _.extend(getcm.locales, { "es-ES": {
+  _.extend(getcm.locales, { "en-US": {
     navbar: {
       about:"About",
       download:"Download",
